@@ -50,7 +50,7 @@
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"5vh","bottom":"5vh"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"border":{"top":{"color":"#343765","width":"1px"}}},"textColor":"white","layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-group alignwide has-white-color has-text-color has-link-color" style="border-top-color:#343765;border-top-width:1px;padding-top:5vh;padding-bottom:5vh"><!-- wp:paragraph {"align":"right","style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background","className":"mobile-aligncenter"} -->
-<p class="has-text-align-right mobile-aligncenter has-background-color has-text-color has-link-color"><?php echo esc_html__( 'Proudly powered by', 'kaaryam' ); ?><?php echo esc_html__( 'WordPress Nepal', 'kaaryam' ); ?>  <a href="#"><?php echo esc_html__( '', 'kaaryam' ); ?></a>  <?php echo esc_html__( 'and', 'kaaryam' ); ?><a href="https://wordpress.org" rel="nofollow"><?php echo esc_html__( 'WordPress', 'kaaryam' ); ?></a></p>
+<p class="has-text-align-right mobile-aligncenter has-background-color has-text-color has-link-color"><?php echo esc_html__( 'Proudly powered by', 'kaaryam' ); ?> <a href="<?php echo esc_url( __( 'https://wpnepal.com', 'kaaryam' ) ); ?>"><?php echo esc_html__( 'WordPress Nepal', 'kaaryam' ); ?> </a>  <?php echo esc_html__( 'and', 'kaaryam' ); ?> <a href="<?php echo esc_url( __( 'https://wordpress.org', 'kaaryam' ) ); ?>" rel="nofollow"><?php echo esc_html__( 'WordPress', 'kaaryam' ); ?></a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->

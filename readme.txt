@@ -52,34 +52,44 @@ Fonts
 Block Pattern Images:
 
 License : CC0 1.0 Universal (CC0 1.0)
-License URI : https://stocksnap.io/license,
-              https://pxhere.com/en/license,
+License URI :  https://pxhere.com/en/license,
 
-# Main Banner 
-    https://pxhere.com/en/photo/1456585
+1 Main Banner	
+ https://pxhere.com/en/photo/1250322
 
-# Hero 
-     https://pxhere.com/en/photo/1434027
+2	Contributor Day bento	
+https://pxhere.com/en/photo/1666012
 
-# Cases
-    https://pxhere.com/en/photo/1448919
-    https://pxhere.com/en/photo/1447335
-    https://pxhere.com/en/photo/1439009
-    https://pxhere.com/en/photo/1436891
-    https://pxhere.com/en/photo/1433639
-    https://pxhere.com/en/photo/1437653
+3	Conference Day Bento	
+https://pxhere.com/en/photo/618609
+
+4	Photo Contest	
+https://pxhere.com/en/photo/1332323
+
+5	After Party	
+https://pxhere.com/en/photo/868620
+
+6	Blog: speaker	
+https://pxhere.com/en/photo/199422
+
+7	Blog 2	
+https://pxhere.com/en/photo/99155
+
+8	Blog 3	
+https://pxhere.com/en/photo/1436889
 
 
-* Inner Banner 
-    https://stocksnap.io/photo/business-working-RRJH1KMRMW
+9 Speakers
+    https://pxhere.com/en/photo/764654
+    https://pxhere.com/en/photo/1278247
+    https://pxhere.com/en/photo/1207001
+    https://pxhere.com/en/photo/1364435
+    https://pxhere.com/en/photo/1384999
+    https://pxhere.com/en/photo/601668
+    https://pxhere.com/en/photo/599421
+    https://pxhere.com/en/photo/867530
+    https://pxhere.com/en/photo/1573329
 
-
-
-# Team and Testimonials
-    https://stocksnap.io/photo/business-man-7BQNRHB6EX
-    https://stocksnap.io/photo/business-man-S81ZPXJZUU
-    https://stocksnap.io/photo/business-man-FPQIEQBMPA
-    https://stocksnap.io/photo/business-man-IVZBYWKEFM
 
 * All the icons used in the servcies section are created us.
     License: GPL v2 or later
