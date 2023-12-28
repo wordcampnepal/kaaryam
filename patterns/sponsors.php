@@ -5,20 +5,20 @@
   * Categories: kaaryam
   */
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"40px","left":"40px","top":"7vw","bottom":"7vw"}},"color":{"background":"#253547"}},"layout":{"type":"default"},"metadata":{"name":"Sponsors"}} -->
-<div class="wp-block-group alignfull has-background" style="background-color:#253547;padding-top:7vw;padding-right:40px;padding-bottom:7vw;padding-left:40px"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background","fontSize":"main-title"} -->
-<h2 class="wp-block-heading has-text-align-center has-background-color has-text-color has-link-color has-main-title-font-size"><?php echo esc_html__( 'Sponsors', 'kaaryam' ); ?></h2>
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"40px","left":"40px","top":"8vw","bottom":"8vw"}},"color":{"background":"#253547"}},"layout":{"type":"default"},"metadata":{"name":"Sponsors"}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#253547;padding-top:8vw;padding-right:40px;padding-bottom:8vw;padding-left:40px"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","fontSize":"main-title"} -->
+<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color has-main-title-font-size"><?php echo esc_html__( 'Sponsors', 'kaaryam' ); ?></h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
-<p class="has-text-align-center has-background-color has-text-color has-link-color"><?php echo esc_html__( 'Our event is made possible through the generous support of our esteemed sponsors. These organizations are more than just financial contributors; they are vital partners in our mission to foster progress and innovation.', 'kaaryam' ); ?></p>
+<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
+<p class="has-text-align-center has-white-color has-text-color has-link-color"><?php echo esc_html__( 'Our event is made possible through the generous support of our esteemed sponsors. These organizations are more than just financial contributors; they are vital partners in our mission to foster progress and innovation.', 'kaaryam' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":""}} -->
-<div class="wp-block-group alignwide"><!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background","fontSize":"medium"} -->
-<p class="has-text-align-center has-background-color has-text-color has-link-color has-medium-font-size"><strong><?php echo esc_html__( 'Platinum', 'kaaryam' ); ?></strong><?php echo esc_html__( 'sponsors', 'kaaryam' ); ?> </p>
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","fontSize":"medium"} -->
+<p class="has-text-align-center has-white-color has-text-color has-link-color has-medium-font-size"><strong><?php echo esc_html__( 'Platinum', 'kaaryam' ); ?></strong><?php echo esc_html__( 'Sponsors', 'kaaryam' ); ?>  </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|60"}}},"layout":{"type":"constrained"}} -->
@@ -119,8 +119,8 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background","fontSize":"medium"} -->
-<p class="has-text-align-center has-background-color has-text-color has-link-color has-medium-font-size"><strong><?php echo esc_html__( 'Gold', 'kaaryam' ); ?></strong><?php echo esc_html__( '', 'kaaryam' ); ?> Sponsors</p>
+<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","fontSize":"medium"} -->
+<p class="has-text-align-center has-white-color has-text-color has-link-color has-medium-font-size"><strong><?php echo esc_html__( 'Gold', 'kaaryam' ); ?></strong><?php echo esc_html__( 'Sponsors', 'kaaryam' ); ?> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|70"}}},"layout":{"type":"constrained"}} -->
@@ -170,7 +170,7 @@
 <!-- /wp:group -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
-<p class="has-text-align-center has-background-color has-text-color has-link-color"><a href="#"><?php echo esc_html__( 'View All Sponsors', 'kaaryam' ); ?></a>  <img class="wp-image-207" style="width: 12px;" src="http://wcnepal.local/wp-content/uploads/2023/12/arrow-white.png" alt=""></p>
+<p class="has-text-align-center has-background-color has-text-color has-link-color"><a href="#"><?php echo esc_html__( 'View All Sponsors', 'kaaryam' ); ?></a>  <img class="wp-image-207" style="width: 12px;" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/arrow-white.png" alt=""></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->

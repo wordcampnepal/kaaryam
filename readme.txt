@@ -23,30 +23,24 @@ Kaaryam is a minimal and lightweight Full Site Editing theme. This speed optimiz
 
 == Changelog ==
 
-= 1.0.0 - 8 Sep 2023 =
+= 1.0.0 - 1st Jan 2024 =
 * Initial release
 
 == Credits ==
 
 Fonts
-    Jost
-        Copyright 2020 The Jost Project Authors (https://github.com/indestructible-type)
-        This Font Software is licensed under the SIL Open Font License, Version 1.1. http://scripts.sil.org/OFL
-
     Open Sans
         Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)
         License: SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 
-    Oswald
-        Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)
-        License: SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
-    
-    Poppins
-        Copyright 2020 The Poppins Project Authors (https://github.com/itfoundry/Poppins)
+    Newsreader
+        Copyright 2020 The Newsreader Project Authors (http://github.com/productiontype/Newsreader)
         This Font Software is licensed under the SIL Open Font License, Version 1.1. http://scripts.sil.org/OFL
-    
-    Roboto
-        Apache License Version 2.0
+
+    Inter
+        Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)
+        This Font Software is licensed under the SIL Open Font License, Version 1.1. http://scripts.sil.org/OFL
+
 
 
 Block Pattern Images:
@@ -54,32 +48,33 @@ Block Pattern Images:
 License : CC0 1.0 Universal (CC0 1.0)
 License URI :  https://pxhere.com/en/license,
 
-1 Main Banner	
- https://pxhere.com/en/photo/1250322
 
-2	Contributor Day bento	
-https://pxhere.com/en/photo/1666012
+# Main Banner	
+    https://pxhere.com/en/photo/489447
+    https://pxhere.com/en/photo/1250322
 
-3	Conference Day Bento	
-https://pxhere.com/en/photo/618609
+# Contributor Day bento	
+    https://pxhere.com/en/photo/1666012
 
-4	Photo Contest	
-https://pxhere.com/en/photo/1332323
+# Conference Day Bento	
+    https://pxhere.com/en/photo/618609
 
-5	After Party	
-https://pxhere.com/en/photo/868620
+# Photo Contest	
+    https://pxhere.com/en/photo/1332323
 
-6	Blog: speaker	
-https://pxhere.com/en/photo/199422
+# After Party	
+    https://pxhere.com/en/photo/868620
 
-7	Blog 2	
-https://pxhere.com/en/photo/99155
+# Blog: speaker	
+    https://pxhere.com/en/photo/199422
 
-8	Blog 3	
-https://pxhere.com/en/photo/1436889
+# Blog 2	
+    https://pxhere.com/en/photo/99155
 
+# Blog 3	
+    https://pxhere.com/en/photo/1436889
 
-9 Speakers
+# Speakers	
     https://pxhere.com/en/photo/764654
     https://pxhere.com/en/photo/1278247
     https://pxhere.com/en/photo/1207001

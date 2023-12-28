@@ -21,3 +21,20 @@ Kaaryam is distributed under the terms of the GNU GPL.
  * This is a niche setting that will not be available via Global Styles.
  * https://github.com/WordPress/gutenberg/issues/35934
  */
+
+ @media only screen and (max-width:768px) { 
+    .wp-block-navigation__responsive-container .wp-block-navigation__responsive-container-content {
+        padding: 30px;
+    }
+    
+    .wp-block-navigation ul.wp-block-navigation__container.is-responsive.wp-block-navigation {
+        gap: 10px;
+    }
+    
+    .wp-block-navigation__responsive-container-close {
+        position: absolute;
+        right: 20px;
+        top: 20px;
+        z-index: 2;
+    }
+ }

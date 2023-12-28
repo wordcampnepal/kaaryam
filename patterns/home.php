@@ -10,6 +10,7 @@
 <!-- wp:pattern {"slug":"kaaryam/main-banner"} /-->
 <!-- wp:pattern {"slug":"kaaryam/latest-news"} /-->
 <!-- wp:pattern {"slug":"kaaryam/features"} /-->
+<!-- wp:pattern {"slug":"kaaryam/events"} /-->
 <!-- wp:pattern {"slug":"kaaryam/sponsors"} /-->
 <!-- wp:pattern {"slug":"kaaryam/speakers"} /-->
 </div>
