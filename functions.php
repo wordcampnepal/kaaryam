@@ -10,7 +10,7 @@
  */
 
 
-if ( ! function_exists( 'starter_fse_support' ) ) :
+if ( ! function_exists( 'kaaryam_scripts' ) ) :
 
 	/**
 	 * Sets up theme defaults and registers support for various WordPress features.
@@ -19,7 +19,7 @@ if ( ! function_exists( 'starter_fse_support' ) ) :
 	 *
 	 * @return void
 	 */
-	function starter_fse_support() {
+	function kaaryam_scripts() {
 	
 		// Add support for block styles.
 		add_theme_support( 'wp-block-styles' );
@@ -36,7 +36,7 @@ if ( ! function_exists( 'starter_fse_support' ) ) :
 
 endif;
 
-add_action( 'after_setup_theme', 'starter_fse_support' );
+add_action( 'after_setup_theme', 'kaaryam_scripts' );
 
 if ( ! function_exists( 'starter_fse_styles' ) ) :
 
