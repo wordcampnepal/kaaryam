@@ -16,11 +16,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}}} -->
-<h3 class="wp-block-heading has-text-align-center" style="font-style:normal;font-weight:700"><?php echo esc_html__( 'Contributor day', 'kaaryam' ); ?></h3>
+<h3 class="wp-block-heading has-text-align-center" style="font-style:normal;font-weight:700"><?php echo esc_html__( 'Designers day', 'kaaryam' ); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|foreground"}}}},"textColor":"foreground"} -->
-<p class="has-text-align-center has-foreground-color has-text-color has-link-color"><?php echo esc_html__( 'Collaborate with new and existing contributors to give back to WordPress.', 'kaaryam' ); ?></p>
+<p class="has-text-align-center has-foreground-color has-text-color has-link-color"><?php echo esc_html__( 'Join fellow designers, new and experienced, to enhance the world of design at the Designer Conference.', 'kaaryam' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
@@ -48,7 +48,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|foreground"}}}},"textColor":"foreground"} -->
-<p class="has-text-align-center has-foreground-color has-text-color has-link-color"><?php echo esc_html__( 'Collaborate with new and existing contributors to give back to WordPress.', 'kaaryam' ); ?></p>
+<p class="has-text-align-center has-foreground-color has-text-color has-link-color"><?php echo esc_html__( 'Join fellow designers, new and experienced, to enhance the world of design at the Designer Conference.', 'kaaryam' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
