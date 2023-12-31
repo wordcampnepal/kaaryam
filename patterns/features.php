@@ -66,7 +66,7 @@
 <!-- /wp:group -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600","fontSize":"20px"}}} -->
-<h3 class="wp-block-heading has-text-align-center" style="font-size:20px;font-style:normal;font-weight:600"><a href="#"> <?php echo esc_html__( 'Contributor Day', 'kaaryam' ); ?></a></h3>
+<h3 class="wp-block-heading has-text-align-center" style="font-size:20px;font-style:normal;font-weight:600"><a href="#"> <?php echo esc_html__( 'Designers Day', 'kaaryam' ); ?></a></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>

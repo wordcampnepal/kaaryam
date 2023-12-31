@@ -16,7 +16,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center"><?php echo esc_html__( 'Contributor day', 'kaaryam' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center"><?php echo esc_html__( 'Designers day', 'kaaryam' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|foreground"}}}},"textColor":"foreground"} -->
@@ -44,11 +44,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center"><?php echo esc_html__( 'Contributor day', 'kaaryam' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center"><?php echo esc_html__( 'Designers day', 'kaaryam' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|foreground"}}}},"textColor":"foreground"} -->
-<p class="has-text-align-center has-foreground-color has-text-color has-link-color"><?php echo esc_html__( 'Collaborate with new and existing contributors to give back to WordPress.', 'kaaryam' ); ?></p>
+<p class="has-text-align-center has-foreground-color has-text-color has-link-color"><?php echo esc_html__( 'Join fellow designers, new and experienced, to enhance the world of design at the Designer Conference.', 'kaaryam' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->

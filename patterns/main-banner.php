@@ -33,11 +33,11 @@
 <!-- /wp:group -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"lineHeight":"1.3","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"bottom":"var:preset|spacing|40","top":"var:preset|spacing|50"}}},"textColor":"background","fontSize":"extra-large"} -->
-<h2 class="wp-block-heading has-text-align-center has-background-color has-text-color has-extra-large-font-size" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--40);font-style:normal;font-weight:700;line-height:1.3"><?php echo esc_html__( 'World Largest WordPress Conference', 'kaaryam' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center has-background-color has-text-color has-extra-large-font-size" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--40);font-style:normal;font-weight:700;line-height:1.3"><?php echo esc_html__( 'World Largest Designer Conference', 'kaaryam' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"textColor":"background","className":" animated animated-fadeInUp","fontSize":"medium"} -->
-<p class="has-text-align-center animated animated-fadeInUp has-background-color has-text-color has-medium-font-size" style="margin-bottom:var(--wp--preset--spacing--40)"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-background-color"><?php echo esc_html__( 'The goal is to build your network', 'kaaryam' ); ?></mark><?php echo esc_html__( 'Join us for an exhilarating journey into the WordPress universe, and connect with fellow enthusiasts.', 'kaaryam' ); ?></p>
+<p class="has-text-align-center animated animated-fadeInUp has-background-color has-text-color has-medium-font-size" style="margin-bottom:var(--wp--preset--spacing--40)"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-background-color"><?php echo esc_html__( 'Join us for an inspiring journey at the Designer Conference. ', 'kaaryam' ); ?></mark><?php echo esc_html__( 'An opportunity to join like-minded enthusiasts in the vibrant world of web design.', 'kaaryam' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|60"},"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|70"},"border":{"top":{"width":"0px","style":"none"},"bottom":{"width":"0px","style":"none"}},"color":{"gradient":"linear-gradient(92deg,rgba(0,0,0,0.07) 0%,rgb(11,21,32) 47%,rgba(0,0,0,0.35) 100%)"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"center"}} -->

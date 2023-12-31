@@ -17,15 +17,15 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Get ready for WordCamp Nepal 2024, happening in the picturesque city of Pokhara on the 12th and 13th of January, 2024, for two days of WordPress enlightenment, networking and fun.', 'kaaryam' ); ?></p>
+<p><?php echo esc_html__( 'Get ready for the Web Designer Conference 2024, set against the backdrop of the picturesque city of Pokhara on January 12th and 13th, 2024. Join us for two days of enlightenment, networking, and fun, celebrating the world of web design.', 'kaaryam' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'WCNP is set to be an unforgettable experience for WordPress enthusiasts. Spread the word, invite your friends and colleagues, and be a part of this celebration of all things WordPress.', 'kaaryam' ); ?></p>
+<p><?php echo esc_html__( 'WDC 2024 promises an unforgettable experience for web design enthusiasts. Spread the word, invite your friends and colleagues, and be part of this vibrant celebration of all things web design.', 'kaaryam' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'See you at WordCamp Nepal 2024!', 'kaaryam' ); ?></p>
+<p><?php echo esc_html__( 'See you at the Web Designer Conference 2024!', 'kaaryam' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
