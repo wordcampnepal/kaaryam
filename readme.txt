@@ -2,7 +2,7 @@
 Contributors: wpnepal
 Tags: blog, news, entertainment, grid-layout, one-column, two-columns, right-sidebar, custom-background, custom-header, custom-logo, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, block-styles, wide-blocks
 Requires at least: 6.1
-Tested up to: 6.3
+Tested up to: 6.4
 Requires PHP: 5.6
 Stable tag: 1.0.1
 License: GPLv2 or later
@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Kaaryam is a minimal and lightweight Full Site Editing theme. This speed optimized theme utilizes the WordPress blocks editor to create unique and eye-catching layouts. Kaaryam is perfect for a single-page website, a blog, a business website, a portfolio, a construction site, or an education site ,blogs, small businesses, startups, law firms and other creative agencies who prefer simple and speed optimized websites.
+Kaaryam is a fast, lightweight WordPress theme for Full Site Editing, perfect for blogs, businesses, portfolios, creative agencies, and ideal for crafting stunning event websites. Experience speed optimization and unique layouts using the WordPress blocks editor.
 
 
 == Installation ==
