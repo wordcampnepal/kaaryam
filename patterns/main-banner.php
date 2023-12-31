@@ -2,7 +2,7 @@
  /**
   * Title: Main Banner
   * Slug: kaaryam/main-banner
-  * Categories: kaaryam
+  * Categories: kaaryam, banner
   */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"0px","left":"0px","top":"0","bottom":"0"}}},"layout":{"type":"constrained"},"metadata":{"name":"Main Banner"}} -->

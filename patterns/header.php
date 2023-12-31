@@ -2,7 +2,7 @@
  /**
   * Title: Header
   * Slug: kaaryam/header
-  * Categories: kaaryam
+  * Categories: kaaryam, header
   */
 ?>
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"10px","bottom":"10px","left":"30px","right":"30px"},"blockGap":"0px"},"border":{"bottom":{"color":"var:preset|color|border","width":"1px"}},"position":{"type":"sticky","top":"0px"}},"backgroundColor":"background","className":"has-background-background-color","layout":{"inherit":true,"type":"constrained"}} -->

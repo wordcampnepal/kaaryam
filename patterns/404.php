@@ -2,7 +2,7 @@
  /**
   * Title: 404 Error Page
   * Slug: kaaryam/404
-  * Categories: kaaryam
+  * Categories: kaaryam, page
   */
 ?>
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","bottom":"80px"}}},"layout":{"inherit":true}} -->

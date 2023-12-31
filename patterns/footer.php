@@ -2,7 +2,7 @@
  /**
   * Title: Footer
   * Slug: kaaryam/footer
-  * Categories: kaaryam
+  * Categories: kaaryam, footer
   */
 ?>
 <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0px","padding":{"top":"5vw","bottom":"0vw"},"margin":{"top":"0","bottom":"0"}},"color":{"background":"#253547"}},"layout":{"inherit":true,"type":"constrained"},"metadata":{"name":"Footer"}} -->

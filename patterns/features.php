@@ -2,7 +2,7 @@
  /**
   * Title: Features
   * Slug: kaaryam/features
-  * Categories: kaaryam
+  * Categories: kaaryam, featured
   */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"5vw","bottom":"5vw","left":"40px","right":"40px"}}},"layout":{"type":"constrained"},"metadata":{"name":"Feature"}} -->

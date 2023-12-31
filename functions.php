@@ -50,3 +50,36 @@ if ( ! function_exists( 'kaaryam_styles' ) ) :
 endif;
 
 add_action( 'wp_enqueue_scripts', 'kaaryam_styles' );
+
+
+/**
+ * Register pattern categories.
+ */
+
+if ( ! function_exists( 'kaaryam_pattern_categories' ) ) :
+    /**
+     * Register pattern categories
+     *
+     * @since Kaaryam 1.0.1
+     * @return void
+     */
+    function kaaryam_pattern_categories() {
+
+        register_block_pattern_category(
+            'page',
+            array(
+                'label'       => _x( 'Pages', 'Block pattern category', 'kaaryam' ),
+                'description' => __( 'A collection of full page layouts.', 'kaaryam' ),
+            )
+        );
+        register_block_pattern_category(
+            'kaaryam',
+            array(
+                'label'       => _x( 'Kaaryam', 'Block pattern category of Kaaryam Theme', 'kaaryam' ),
+                'description' => __( 'A collection of full patterns by Kaaryam Theme.', 'kaaryam' ),
+            )
+        );
+    }
+endif;
+
+add_action( 'init', 'kaaryam_pattern_categories' );
