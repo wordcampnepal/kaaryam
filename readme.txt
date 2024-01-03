@@ -1,5 +1,5 @@
 === Kaaryam ===
-Contributors: wpnepal
+Contributors: wordcampnepal
 Tags: blog, news, entertainment, grid-layout, one-column, two-columns, right-sidebar, custom-background, custom-header, custom-logo, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, block-styles, wide-blocks
 Requires at least: 6.1
 Tested up to: 6.4
