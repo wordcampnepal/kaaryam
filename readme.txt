@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Kaaryam is a fast, lightweight WordPress theme for Full Site Editing, perfect for blogs, businesses, portfolios, creative agencies, and ideal for crafting stunning event websites. Experience speed optimization and unique layouts using the WordPress blocks editor.
+Kaaryam is a WordPress theme that is fast and lightweight, designed for Full Site Editing. It is perfect for blogs, businesses, portfolios, and creative agencies, and is ideal for creating stunning event websites. You can experience speed optimization and unique layouts using the WordPress blocks editor.
 
 
 == Installation ==
