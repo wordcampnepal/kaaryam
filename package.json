@@ -1,0 +1,13 @@
+{
+    "name": "kaaryam",
+    "version": "1.0.1",
+    "main": "index.js",
+    "repository": "git@github.com:wordcampnepal/kaaryam.git",
+    "author": "WordCampNepal <wordcampnepal@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+      "build": "bash bash/build.sh",
+      "bundle": "bash bash/bundle.sh"
+    }
+}
+  
