@@ -1,0 +1,22 @@
+{
+    "name": "wordcampnepal/kaaryam",
+    "autoload": {
+        "psr-4": {
+            "WordCampNepal\\Kaaryam\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wordcampnepal",
+            "email": "wordcampnepal@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "wp-cli/wp-cli-bundle": "^2.9"
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}
