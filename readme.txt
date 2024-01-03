@@ -23,6 +23,11 @@ Kaaryam is a WordPress theme that is fast and lightweight, designed for Full Sit
 
 == Changelog ==
 
+= 1.0.1 - 3st Jan 2024 =
+* Copy changes.
+* Minor fixing.
+
+
 = 1.0.0 - 1st Jan 2024 =
 * Initial release
 
