@@ -9,25 +9,6 @@
  * @since Kaaryam 1.0
  */
 
-
-if ( ! function_exists( 'kaaryam_support' ) ) :
-
-	/**
-	 * Sets up theme defaults and registers support for various WordPress features.
-	 *
-	 * @since Kaaryam 1.0
-	 *
-	 * @return void
-	 */
-	function kaaryam_support() {
-		// Enqueue editor styles.
-		add_editor_style( 'style.css' );
-	}
-
-endif;
-
-// add_action( 'after_setup_theme', 'kaaryam_support' );
-
 if ( ! function_exists( 'kaaryam_styles' ) ) :
 
 	/**
