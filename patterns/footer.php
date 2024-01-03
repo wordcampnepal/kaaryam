@@ -2,13 +2,13 @@
  /**
   * Title: Footer
   * Slug: kaaryam/footer
-  * Categories: kaaryam
+  * Categories: kaaryam, footer
   */
 ?>
 <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0px","padding":{"top":"5vw","bottom":"0vw"},"margin":{"top":"0","bottom":"0"}},"color":{"background":"#253547"}},"layout":{"inherit":true,"type":"constrained"},"metadata":{"name":"Footer"}} -->
 <div class="wp-block-group alignwide has-background" style="background-color:#253547;margin-top:0;margin-bottom:0;padding-top:5vw;padding-bottom:0vw"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"80px","right":"30px","bottom":"80px","left":"30px"},"blockGap":"0px","margin":{"bottom":"var:preset|spacing|60"}},"border":{"radius":"23px"},"background":{"backgroundImage":{"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/dot-grid.png","id":152,"source":"file","title":"dot-grid"}}},"className":"has-background-secondary-background-color","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide has-background-secondary-background-color" style="border-radius:23px;margin-bottom:var(--wp--preset--spacing--60);padding-top:80px;padding-right:30px;padding-bottom:80px;padding-left:30px"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}},"typography":{"textTransform":"capitalize"}},"fontSize":"big"} -->
-<h2 class="wp-block-heading has-text-align-center has-big-font-size" style="margin-bottom:var(--wp--preset--spacing--50);text-transform:capitalize"><?php echo esc_html__( 'Stay informed about every news and announcements on WordCamp Nepal 2024', 'kaaryam' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center has-big-font-size" style="margin-bottom:var(--wp--preset--spacing--50);text-transform:capitalize"><?php echo esc_html__( 'Stay informed about news & announcement on the Designer Conference 2024!', 'kaaryam' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -50,7 +50,7 @@
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"5vh","bottom":"5vh"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"border":{"top":{"color":"#343765","width":"1px"}}},"textColor":"white","layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-group alignwide has-white-color has-text-color has-link-color" style="border-top-color:#343765;border-top-width:1px;padding-top:5vh;padding-bottom:5vh"><!-- wp:paragraph {"align":"right","style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background","className":"mobile-aligncenter"} -->
-<p class="has-text-align-right mobile-aligncenter has-background-color has-text-color has-link-color"><?php echo esc_html__( 'Proudly powered by', 'kaaryam' ); ?><?php echo esc_html__( 'WordPress Nepal', 'kaaryam' ); ?>  <a href="#"><?php echo esc_html__( '', 'kaaryam' ); ?></a>  <?php echo esc_html__( 'and', 'kaaryam' ); ?><a href="https://wordpress.org" rel="nofollow"><?php echo esc_html__( 'WordPress', 'kaaryam' ); ?></a></p>
+<p class="has-text-align-right mobile-aligncenter has-background-color has-text-color has-link-color"><?php echo esc_html__( 'Proudly powered by', 'kaaryam' ); ?> <a href="<?php echo esc_url( __( 'https://wpnepal.com', 'kaaryam' ) ); ?>"><?php echo esc_html__( 'WPNepal', 'kaaryam' ); ?> </a>  <?php echo esc_html__( 'and', 'kaaryam' ); ?> <a href="<?php echo esc_url( __( 'https://wordpress.org', 'kaaryam' ) ); ?>" rel="nofollow"><?php echo esc_html__( 'WordPress', 'kaaryam' ); ?></a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->

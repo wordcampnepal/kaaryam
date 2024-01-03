@@ -2,7 +2,7 @@
 Contributors: wpnepal
 Tags: blog, news, entertainment, grid-layout, one-column, two-columns, right-sidebar, custom-background, custom-header, custom-logo, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, block-styles, wide-blocks
 Requires at least: 6.1
-Tested up to: 6.3
+Tested up to: 6.4
 Requires PHP: 5.6
 Stable tag: 1.0.1
 License: GPLv2 or later
@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Kaaryam is a minimal and lightweight Full Site Editing theme. This speed optimized theme utilizes the WordPress blocks editor to create unique and eye-catching layouts. Kaaryam is perfect for a single-page website, a blog, a business website, a portfolio, a construction site, or an education site ,blogs, small businesses, startups, law firms and other creative agencies who prefer simple and speed optimized websites.
+Kaaryam is a WordPress theme that is fast and lightweight, designed for Full Site Editing. It is perfect for blogs, businesses, portfolios, and creative agencies, and is ideal for creating stunning event websites. You can experience speed optimization and unique layouts using the WordPress blocks editor.
 
 
 == Installation ==
@@ -23,63 +23,68 @@ Kaaryam is a minimal and lightweight Full Site Editing theme. This speed optimiz
 
 == Changelog ==
 
-= 1.0.0 - 8 Sep 2023 =
+= 1.0.0 - 1st Jan 2024 =
 * Initial release
 
 == Credits ==
 
 Fonts
-    Jost
-        Copyright 2020 The Jost Project Authors (https://github.com/indestructible-type)
-        This Font Software is licensed under the SIL Open Font License, Version 1.1. http://scripts.sil.org/OFL
-
     Open Sans
         Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)
         License: SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 
-    Oswald
-        Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)
-        License: SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
-    
-    Poppins
-        Copyright 2020 The Poppins Project Authors (https://github.com/itfoundry/Poppins)
+    Newsreader
+        Copyright 2020 The Newsreader Project Authors (http://github.com/productiontype/Newsreader)
         This Font Software is licensed under the SIL Open Font License, Version 1.1. http://scripts.sil.org/OFL
-    
-    Roboto
-        Apache License Version 2.0
+
+    Inter
+        Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)
+        This Font Software is licensed under the SIL Open Font License, Version 1.1. http://scripts.sil.org/OFL
+
 
 
 Block Pattern Images:
 
 License : CC0 1.0 Universal (CC0 1.0)
-License URI : https://stocksnap.io/license,
-              https://pxhere.com/en/license,
-
-# Main Banner 
-    https://pxhere.com/en/photo/1456585
-
-# Hero 
-     https://pxhere.com/en/photo/1434027
-
-# Cases
-    https://pxhere.com/en/photo/1448919
-    https://pxhere.com/en/photo/1447335
-    https://pxhere.com/en/photo/1439009
-    https://pxhere.com/en/photo/1436891
-    https://pxhere.com/en/photo/1433639
-    https://pxhere.com/en/photo/1437653
+License URI :  https://pxhere.com/en/license,
 
 
-* Inner Banner 
-    https://stocksnap.io/photo/business-working-RRJH1KMRMW
+# Main Banner	
+    https://pxhere.com/en/photo/489447
+    https://pxhere.com/en/photo/1250322
 
+# Contributor Day bento	
+    https://pxhere.com/en/photo/1666012
 
+# Conference Day Bento	
+    https://pxhere.com/en/photo/618609
 
-# Team and Testimonials
-    https://stocksnap.io/photo/business-man-7BQNRHB6EX
-    https://stocksnap.io/photo/business-man-S81ZPXJZUU
-    https://stocksnap.io/photo/business-man-FPQIEQBMPA
-    https://stocksnap.io/photo/business-man-IVZBYWKEFM
+# Photo Contest	
+    https://pxhere.com/en/photo/1332323
+
+# After Party	
+    https://pxhere.com/en/photo/868620
+
+# Blog: speaker	
+    https://pxhere.com/en/photo/199422
+
+# Blog 2	
+    https://pxhere.com/en/photo/99155
+
+# Blog 3	
+    https://pxhere.com/en/photo/1436889
+
+# Speakers	
+    https://pxhere.com/en/photo/764654
+    https://pxhere.com/en/photo/1278247
+    https://pxhere.com/en/photo/1207001
+    https://pxhere.com/en/photo/1364435
+    https://pxhere.com/en/photo/1384999
+    https://pxhere.com/en/photo/601668
+    https://pxhere.com/en/photo/599421
+    https://pxhere.com/en/photo/867530
+    https://pxhere.com/en/photo/1573329
+
 
 * All the icons used in the servcies section are created us.
     License: GPL v2 or later
