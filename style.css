@@ -38,3 +38,9 @@ Kaaryam is distributed under the terms of the GNU GPL.
         z-index: 2;
     }
  }
+ a{
+    text-decoration: underline;;
+ }
+ header a{
+    text-decoration:none;
+ }
