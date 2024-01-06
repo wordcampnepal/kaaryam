@@ -22,6 +22,9 @@ Kaaryam is a WordPress theme that is fast and lightweight, designed for Full Sit
 
 
 == Changelog ==
+= 1.0.2 - 6th Jan 2024 =
+* License issue fixed
+* link Issue
 
 = 1.0.1 - 3st Jan 2024 =
 * Copy changes.
@@ -48,47 +51,65 @@ Fonts
 
 
 
-Block Pattern Images:
+
+Image for theme screenshot
 
 License : CC0 1.0 Universal (CC0 1.0)
 License URI :  https://pxhere.com/en/license,
-
-
-# Main Banner	
+# Main Banner
+    License : CC0 1.0 Universal (CC0 1.0)
+    License URI :  https://pxhere.com/en/license,
     https://pxhere.com/en/photo/489447
     https://pxhere.com/en/photo/1250322
 
 # Contributor Day bento	
-    https://pxhere.com/en/photo/1666012
+
+ License : CC0 1.0 Universal (CC0 1.0)
+    License URI :  https://pxhere.com/en/license,
+    Source: https://pxhere.com/en/photo/1666012
 
 # Conference Day Bento	
-    https://pxhere.com/en/photo/618609
+ License : CC0 1.0 Universal (CC0 1.0)
+    License URI :  https://pxhere.com/en/license,
+    Source:https://pxhere.com/en/photo/618609
 
 # Photo Contest	
-    https://pxhere.com/en/photo/1332323
+ License : CC0 1.0 Universal (CC0 1.0)
+    License URI :  https://pxhere.com/en/license,
+    Source:https://pxhere.com/en/photo/1332323
 
 # After Party	
-    https://pxhere.com/en/photo/868620
+ License : CC0 1.0 Universal (CC0 1.0)
+    License URI :  https://pxhere.com/en/license,
+    Source: https://pxhere.com/en/photo/868620
 
 # Blog: speaker	
-    https://pxhere.com/en/photo/199422
+ License : CC0 1.0 Universal (CC0 1.0)
+    License URI :  https://pxhere.com/en/license,
+    Source:https://pxhere.com/en/photo/199422
 
 # Blog 2	
-    https://pxhere.com/en/photo/99155
+ License : CC0 1.0 Universal (CC0 1.0)
+    License URI :  https://pxhere.com/en/license,
+    Source: https://pxhere.com/en/photo/99155
 
 # Blog 3	
-    https://pxhere.com/en/photo/1436889
+ License : CC0 1.0 Universal (CC0 1.0)
+    License URI :  https://pxhere.com/en/license,
+    Source: https://pxhere.com/en/photo/1436889
 
 # Speakers	
-    https://pxhere.com/en/photo/764654
-    https://pxhere.com/en/photo/1278247
-    https://pxhere.com/en/photo/1207001
-    https://pxhere.com/en/photo/1364435
-    https://pxhere.com/en/photo/1384999
-    https://pxhere.com/en/photo/601668
-    https://pxhere.com/en/photo/599421
-    https://pxhere.com/en/photo/867530
-    https://pxhere.com/en/photo/1573329
+    License : CC0 1.0 Universal (CC0 1.0)
+    License URI :  https://pxhere.com/en/license,
+    Source: https://pxhere.com/en/photo/764654
+    Source: https://pxhere.com/en/photo/1278247
+    Source: https://pxhere.com/en/photo/1207001
+    Source: https://pxhere.com/en/photo/1364435
+    Source:https://pxhere.com/en/photo/1384999
+    Source: https://pxhere.com/en/photo/601668
+    Source: https://pxhere.com/en/photo/599421
+    Source: https://pxhere.com/en/photo/867530
+    Source: https://pxhere.com/en/photo/1573329
 
 
 * All the icons used in the servcies section are created us.
