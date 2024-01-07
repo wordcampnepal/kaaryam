@@ -38,3 +38,25 @@ Kaaryam is distributed under the terms of the GNU GPL.
         z-index: 2;
     }
  }
+
+.entry-content.wp-block-post-content a:not(.wp-block-button__link),
+.entry-summery a:not(.wp-block-button__link),
+.widget a:not(.wp-block-button__link) {
+	text-decoration: underline;
+}
+.page-template-page-no-title .entry-content.wp-block-post-content a:not(.wp-block-button__link),
+.page-template-page-no-title .entry-content.wp-block-post-content a:not(.wp-block-button__link):visited {
+    text-decoration: none;
+}
+.editor-styles-wrapper .has-no-underline a,
+.editor-styles-wrapper .has-no-underline,
+.has-no-underline a,.has-no-underline,
+.wp-block-post-excerpt__more-link  {
+	text-decoration: none;
+}
+
+.page-template-page-no-title .widget a:not(.wp-block-button__link),
+.page-template-page-no-title  .entry-summery a:not(.wp-block-button__link),
+.page-template-page-no-title  .entry-content a:not(.wp-block-button__link) {
+    text-decoration: none;
+}

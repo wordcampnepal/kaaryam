@@ -9,7 +9,7 @@ This theme is created as a "Contributor Day" Project for the [WordCamp Nepal 202
 ## Following People has contributed on theme
 
 - [Anil Basnet](https://anilbasnet.net/) : Development Lead
-- [Bibek KC](https://bibekkc.com.np/): Desgin Lead
+- [Bibek KC](https://bibekkc.com.np/): Design Lead
 - [Rakesh Lawaju](https://racase.com.np/): Development Contributor 
 - [Umesh Ghimire](https://umeshghimire.com.np/): Development Contributor 
 - [Sanjip Shah](https://twitter.com/sanjipshah): Coordinator
