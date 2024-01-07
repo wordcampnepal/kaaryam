@@ -1,3 +1,4 @@
 /vendor/
 /build/
 /bundle/
+/node_modules/
